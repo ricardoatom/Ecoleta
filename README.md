@@ -18,4 +18,3 @@ Projeto voltado para fins ecológicos!<br/>
 Integração de mapas, conceitos de TypeScript, cadastro de itens e pontos de coleta, criação de banco de dados, requisições no backend.<br/>
 Busca de itens, pontos e detalhes na API.<br/>
 Banco de dados: SQLite.
-
